@@ -1,0 +1,4 @@
+1、提示缺少“VC++运行库”：下载地址：http://ttl4.pc6.com/wgd/Visual.Studio.2012.zip
+2、必须按照java运行环境：JDK下载地址：（http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html）
+（64位系统）： http://download.oracle.com/otn-pub/java/jdk/8u102-b14/jdk-8u102-windows-x64.exe?AuthParam=1473839887_c28eccb0c768321f049724b948884a9b
+（32位系统）：http://download.oracle.com/otn-pub/java/jdk/8u102-b14/jdk-8u102-windows-i586.exe?AuthParam=1473839931_6b6b749833bb490b85bc32f3228ee0b4
